@@ -12,6 +12,7 @@
 #include "game_stats.h"
 #include "game_stats_2.0.h"
 #include "game_stats_3.0.h"
+#include "lost_fortune.h"
 using namespace std;
 
 int main()
@@ -21,5 +22,6 @@ int main()
 	stats();
 	stats_2();
 	stats_3();
+	start_game();
 }
 

@@ -157,12 +157,14 @@
     <ClCompile Include="game_stats_2.0.cpp" />
     <ClCompile Include="game_stats_3.0.cpp" />
     <ClCompile Include="loot_calculator.cpp" />
+    <ClCompile Include="lost_fortune.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="game_over.h" />
     <ClInclude Include="game_stats.h" />
     <ClInclude Include="game_stats_2.0.h" />
     <ClInclude Include="loot_calculator.h" />
+    <ClInclude Include="lost_fortune.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="game_stats_3.0.h" />

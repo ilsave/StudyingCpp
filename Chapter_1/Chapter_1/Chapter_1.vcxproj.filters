@@ -33,6 +33,9 @@
     <ClCompile Include="game_stats_3.0.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="lost_fortune.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="game_over.h">
@@ -45,6 +48,9 @@
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
     <ClInclude Include="game_stats_2.0.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="lost_fortune.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
