@@ -4,6 +4,9 @@
 #include "menu_chooser.h"
 #include "play_again.h"
 #include "tricky_counter.h"
+#include "designers_network.h"
+#include "die_roller.h"
+#include "guess_my_number.h"
 using namespace std;
 
 /*
@@ -17,5 +20,8 @@ int main()
 	menu();
 	play_again();
 	count();
+	login();
+	roll_die();
+	guess_number();
 }
 

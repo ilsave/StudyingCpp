@@ -152,6 +152,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Chapter_2.cpp" />
+    <ClCompile Include="designers_network.cpp" />
+    <ClCompile Include="die_roller.cpp" />
+    <ClCompile Include="guess_my_number.cpp" />
     <ClCompile Include="menu_chooser.cpp" />
     <ClCompile Include="play_again.cpp" />
     <ClCompile Include="score_rater.cpp" />
@@ -159,6 +162,9 @@
     <ClCompile Include="tricky_counter.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="designers_network.h" />
+    <ClInclude Include="die_roller.h" />
+    <ClInclude Include="guess_my_number.h" />
     <ClInclude Include="menu_chooser.h" />
     <ClInclude Include="play_again.h" />
     <ClInclude Include="score_rater.h" />
